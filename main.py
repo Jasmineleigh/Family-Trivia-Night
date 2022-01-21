@@ -1,3 +1,5 @@
+# Essentially this is the "Start Button" for now
+
 from family_game_night.round4 import p1, p2, p3, p4, p5, p1_points, p2_points, p3_points, p4_points, p5_points
 input()
 print("This marks the end of the family trivia night.\nHere is the final leaderboard.\n\n")
