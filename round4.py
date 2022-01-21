@@ -2,11 +2,11 @@ from family_game_night.questions import question
 from family_game_night.round3 import p1, p2, p3, p4, p5, p1_points, p2_points, p3_points, p4_points, p5_points
 
 # title_of_round
-input()
+input("Press [Enter] to continue.")
 print("\n\n---Finish the Lyric---")
-input()
+input("Press [Enter] to continue.")
 print("-->Each player will try to finish the next lyric in the song presented.")
-input()
+input("Press [Enter] to continue.")
 
 # question 1
 question1 = question("\nPlop, Plop. Fizz, Fizz.--", "Oh what a relief it is.")
