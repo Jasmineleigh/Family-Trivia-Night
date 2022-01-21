@@ -127,7 +127,7 @@ question8 = question("\"Pop pop, it's show time (show time)\n"
 
 print(question8.prompt + "\n")
 
-guess = input(f"\n-->{p1}, What do you think the song is? ")
+guess = input(f"\n-->{p3}, What do you think the song is? ")
 
 print("\n")
 correct = question8.got_answer(guess, p3)
