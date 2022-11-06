@@ -7,7 +7,7 @@ Although I may not have implemented this in the best way, it's a start.
 
 ---Overview---
 
-->The game consists of 3 different rounds : Black History, Guess the song, Finish the Lyric, Random Trivia
+->The game consists of 4 different rounds : Black History, Guess the song, Finish the Lyric, Random Trivia
 
 ->There has to be 6 players (until I figure out how to make that optional)
 
